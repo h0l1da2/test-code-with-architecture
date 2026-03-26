@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/.m2/org/springframework/boot/spring-boot-starter-parent/3.0.1/spring-boot-starter-parent-3.0.1.pom.lastUpdated

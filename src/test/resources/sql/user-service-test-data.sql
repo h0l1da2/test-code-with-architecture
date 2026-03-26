@@ -33,3 +33,5 @@ values (2,
         'PENDING',
         0
        );
+
+alter table users alter column id restart with 3;
